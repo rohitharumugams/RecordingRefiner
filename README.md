@@ -41,11 +41,7 @@ The project is structured into several sections:
 
 1. **Install Dependencies:**
 
-   Make sure you have the necessary dependencies installed. You can install them using pip:
-
-   ```sh
-   pip install -r requirements.txt
-   ```
+   Make sure you have the necessary dependencies installed. You can install them using pip.
 
 2. **Run the Notebook:**
 
